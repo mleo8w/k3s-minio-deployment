@@ -3,6 +3,9 @@
 [MinIO] is an open source object storage server with support for the S3 API.
 This means that you can run your very own S3 deployment from your homelab.
 
+Original: https://github.com/minio/object-browser
+Learning From: https://github.com/sleighzy/k3s-minio-deployment 
+
 My uses of this include:
 
 - object storage for a private [Docker Registry]
