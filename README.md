@@ -5,6 +5,7 @@ This means that you can run your very own S3 deployment from your homelab.
 
 Original: https://github.com/minio/object-browser
 Learning From: https://github.com/sleighzy/k3s-minio-deployment 
+Multi-Node Multi-Drive
 
 My uses of this include:
 
